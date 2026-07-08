@@ -1,4 +1,4 @@
-# YesPornPlease Downloader (Browser Extension)
+# YesPornPlease Video Downloader (Browser Extension)
 
 > Download YesPornPlease videos as MP4 files from supported pages without leaving the browser.
 
@@ -12,7 +12,7 @@ YesPornPlease Downloader is a browser extension built for a site that often aggr
 
 ## Links
 
-- :rocket: Get it here: [YesPornPlease Downloader](https://serp.ly/yespornplease-downloader)
+- :rocket: Get it here: [YesPornPlease Downloader](https://serp.ly/yespornplease-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/yespornplease-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/yespornplease-downloader/issues)
@@ -109,7 +109,7 @@ Saved files use MP4 so they are easier to replay on standard media players, move
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/yespornplease-downloader](https://serp.ly/yespornplease-downloader)
+Start here: [https://serp.ly/yespornplease-downloader?via=github](https://serp.ly/yespornplease-downloader?via=github)
 
 ## Troubleshooting
 
